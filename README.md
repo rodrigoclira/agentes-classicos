@@ -1,4 +1,4 @@
-# Atividade Prática — Agentes Clássicos de Aprendizado por Reforço
+# Atividade Prática: Agentes Clássicos de Aprendizado por Reforço
 
 **Entrega:** Jupyter Notebook (.ipynb) ou Arquivos python (.py)
 
